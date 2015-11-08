@@ -1,0 +1,115 @@
+{
+	"site": {
+		"header_section": {
+			"title" : "WeGeekU",
+    		"bar"   : {
+				"home"    : "Inicio",
+    			"services": "Servicios",
+    			"about"   : "Nosotros",
+    			"works"   : "Nuestros trabajos",
+    			"meet"    : "Nuestro Equipo",
+    			"contact" : "Contáctanos"
+			},
+			"slogan": {
+				"part1": "Desarrollando Soluciones",
+				"part2": "Inteligentes para el mañana"
+			}
+		},
+		"service_section": {
+			"title"      : "NUESTROS SERVICIOS",
+			"information": [
+				"¿Qué hacemos?",
+				"Estamos inmersos en la creación soluciones informáticas, para apoyar el desarrollo de procesos de la industria local.",
+				"En el mismo sentido proporcionamos sitios web, dirigidos a empresas o particulares de cualquier índole."
+			],
+			"categories": [
+				{
+					"name" : ["DESARROLLO", "WEB"],
+					"value": "90",
+					"label": "Completado"
+				},
+				{
+					"name" : ["BASES", "DE DATOS"],
+					"value": "75",
+					"label": "Completado"
+				},
+				{
+					"name" : ["OTROS", "DESARROLLOS"],
+					"value": "85",
+					"label": "Completado"
+				}
+			]
+		},
+		"about_section": {
+			"title"      : "NOSOTROS",
+			"information": "Somos una empresa de diseño web fundada en el año 2013. Ofrecemos servicios de Desarrollo Web y Aplicaciones Móviles. Estamos comprometidos en ofrecer un servicio marcado por la excelencia y el compromiso. Utilizamos las últimas tecnologías y herramientas de desarrollo, para proporcionarle al cliente, productos de calidad."	
+		},
+		"works_section": {
+			"title"     : "NUESTROS TRABAJOS",
+			"categories": ["Todos", "Aplicaciones", "Diseño Web"],
+			"label"     : "Presentación de ancho completo"
+		},
+		"meet_section": {
+			"title": "NUESTRO EQUIPO",
+			"team": [
+				{
+					"name"           : "Deyvid Martínez",
+					"picture"        : "resources/images/deyvid.png",
+					"position"       : "Arquitecto de Software",
+					"description"    : "Fundador",
+					"social_networks": {
+						"twitter" : "https://twitter.com/deyvidm18",
+						"facebook": "https://www.facebook.com/deyvid.martinez.355",
+						"linkedin": "",
+						"github"  : "https://github.com/deyvidm18"
+					}
+				},
+				{
+					"name"           : "Daniel Ramírez",
+					"picture"        : "resources/images/daniel.png",
+					"position"       : "Arquitecto de Software",
+					"description"    : "Fundador",
+					"social_networks": {
+						"twitter" : "https://twitter.com/nanielito",
+						"facebook": "https://www.facebook.com/naniel",
+						"linkedin": "https://ve.linkedin.com/in/danielramirezvillegas",
+						"github"  : "https://github.com/Nanielito"
+					}
+				},
+				{
+					"name"           : "Enrique Yepez",
+					"picture"        : "resources/images/enrique.png",
+					"position"       : "Desarrollador de Software",
+					"description"    : "Founder",
+					"social_networks": {
+						"twitter" : "https://twitter.com/enriqueyt",
+						"facebook": "https://www.facebook.com/enriqueyt",
+						"linkedin": "https://ve.linkedin.com/pub/enrique-yepez-torres/81/116/a43",
+						"github"  : "https://github.com/enriqueyt"
+					}
+				}
+			]		
+		},
+		"contact_section": {
+			"title": "CONTÁCTANOS",
+			"social_networks": {
+				"twitter" : "",
+				"facebook": "",
+				"linkedin": "",
+				"gplus"   : "",
+				"github"  : ""
+			},
+			"form" : {
+				"labelName" : "Nombre",
+				"inputName" : "Ingrese su nombre",
+				"labelEmail": "Correo",
+				"inputEmail": "Ingrese se correo",
+				"labelText" : "Mensaje",
+				"inputText" : "Escribe algo",
+				"button"	: "Hola",
+				"msgOK"     : "Su mensaje fue enviado correctamente! proximamente estaremos en contacto.",
+				"msgError"  : "Ocurrio un error en el proceso, actualice e intente nuevamente."
+			}	
+		}
+	}
+}

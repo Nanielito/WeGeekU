@@ -1,0 +1,115 @@
+{
+	"site": {
+		"header_section": {
+			"title" : "WeGeekU",
+    		"bar"   : {
+				"home"    : "Home",
+    			"services": "Services",
+    			"about"   : "About us",
+    			"works"   : "Our works",
+    			"meet"    : "Our Team",
+    			"contact" : "Contact Us"	
+			},
+			"slogan": {
+				"part1": "Developing smart solutions",
+    			"part2": "for tomorrow"	
+			}
+		},
+		"service_section": {
+		    "title"      : "OUR SERVICES",
+			"information": [
+				"What we do now?",
+				"We are involved in developing informatics solutions to improve local industry development.",
+				"In the same way we provide websites aimed at businesses or individuals."
+			],
+			"categories": [
+				{
+					"name" : ["WEB", "DEVELOPMENT"],
+					"value": "90",
+					"label": "Completed"
+				},
+				{
+					"name" : ["DATABASE", "PROGRAMMING"],
+					"value": "75",
+					"label": "Completed"
+				},
+				{
+					"name" : ["OTHERS", "DEVELOPMENTS"],
+					"value": "85",
+					"label": "Completed"
+				}
+			]
+		},
+		"about_section": {
+			"title"      : "ABOUT US",
+			"information": "Somos una empresa de diseño web fundada en el año 2013. Ofrecemos servicios de Desarrollo Web y Aplicaciones Móviles. Estamos comprometidos en ofrecer un servicio marcado por la excelencia y el compromiso. Utilizamos las últimas tecnologías y herramientas de desarrollo, para proporcionarle al cliente, productos de calidad."
+		},
+		"works_section": {
+			"title"     : "OUR WORKS",
+			"categories": ["All", "Applications", "Web Design"],
+			"label"     : "Fullwidth Slideshow"
+		},
+		"meet_section": {
+			"title": "OUR TEAM",
+			"team": [
+				{
+					"name"           : "Deyvid Martínez",
+					"picture"        : "resources/images/deyvid.png",
+					"position"       : "Software Architect",
+					"description"    : "Founder",
+					"social_networks": {
+						"twitter" : "https://twitter.com/deyvidm18",
+						"facebook": "https://www.facebook.com/deyvid.martinez.355",
+						"linkedin": "",
+						"github"  : "https://github.com/deyvidm18"
+					}
+				},
+				{
+					"name"           : "Daniel Ramírez",
+					"picture"        : "resources/images/daniel.png",
+					"position"       : "System Architect",
+					"description"    : "Founder",
+					"social_networks": {
+						"twitter" : "https://twitter.com/nanielito",
+						"facebook": "https://www.facebook.com/naniel",
+						"linkedin": "https://ve.linkedin.com/in/danielramirezvillegas",
+						"github"  : "https://github.com/Nanielito"
+					}
+				},
+				{
+					"name"           : "Enrique Yepez",
+					"picture"        : "resources/images/enrique.png",
+					"position"       : "Software Developer",
+					"description"    : "Founder",
+					"social_networks": {
+						"twitter" : "https://twitter.com/enriqueyt",
+						"facebook": "https://www.facebook.com/enriqueyt",
+						"linkedin": "https://ve.linkedin.com/pub/enrique-yepez-torres/81/116/a43",
+						"github"  : "https://github.com/enriqueyt"
+					}
+				}
+			]
+		},
+		"contact_section": {	
+			"title": "CONTACT US",
+			"social_networks": {
+				"twitter" : "",
+				"facebook": "",
+				"linkedin": "",
+				"gplus"   : "",
+				"github"  : ""
+			},
+			"form" : {
+				"labelName" : "Name",
+				"inputName" : "Enter your name",
+				"labelEmail": "Email",
+				"inputEmail": "Enter your email",
+				"labelText" : "Message",
+				"inputText" : "Write something",
+				"button"	: "Say Hello",
+				"msgOK"     : "Your message was sent succssfully! we will be in touch as soon as we can.",
+				"msgError"  : "Something went wrong, try refreshing and submitting the form again."
+			}
+		}
+	}
+}
