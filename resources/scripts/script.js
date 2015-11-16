@@ -90,7 +90,7 @@ $(document).ready(function($) {
             percentSize: '18px',
             percentWeight: 'normal'
         });
-    }, 50);
+    }, 1000);
 
 /*=================================
 ||			Owl Carousel

@@ -80,10 +80,44 @@ a:hover
   text-align: center;
   font-size: 18px;
 }
+/*
 .custom-icon:hover{
   background: #221e2d;
   border: 2px solid transparent;
 }
+*/
+
+.fa-facebook:hover
+{
+  transition: all .4s;
+    color:#fff;
+    background-color:#3B5998;
+}
+.fa-twitter:hover
+{
+  transition: all .4s;
+    color:#fff;
+    background-color: #2A80BA;
+}
+.fa-linkedin:hover
+{
+  transition: all .4s;
+    color:#fff;
+    background-color:#007bb6;
+}
+.fa-googleplus:hover
+{
+  transition: all .4s;
+    color:#fff;
+    background-color:#dd4b39;
+}
+.fa-github:hover
+{
+  transition: all .4s;
+    color:#fff;
+    background-color: #444;
+}
+
 /*.hide
 {
   opacity: 0;
