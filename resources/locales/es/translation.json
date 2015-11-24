@@ -19,8 +19,8 @@
 			"title"      : "NUESTROS SERVICIOS",
 			"information": [
 				"¿Qué hacemos?",
-				"Estamos inmersos en la creación soluciones informáticas, para apoyar el desarrollo de procesos de la industria local.",
-				"En el mismo sentido proporcionamos sitios web, dirigidos a empresas o particulares de cualquier índole."
+				"Estamos enfocados en la creación de soluciones tecnológicas, para promover e impulsar sus procesos de negocio.",
+				"Proporcionando sitios web de alta calidad, basándonos en los ultimos estandares de la industria, para satisfacer las exigencias mas elevadas de nuestros clientes. Construyendo soluciones de alto valor para su empresa."
 			],
 			"categories": [
 				{
@@ -34,7 +34,7 @@
 					"label": "Completado"
 				},
 				{
-					"name" : ["OTROS", "DESARROLLOS"],
+					"name" : ["APLICACIONES", "MÓVILES"],
 					"value": "85",
 					"label": "Completado"
 				}
@@ -45,7 +45,7 @@
 			"information": "Somos una empresa de diseño web fundada en el año 2013. Ofrecemos servicios de Desarrollo Web y Aplicaciones Móviles. Estamos comprometidos en ofrecer un servicio marcado por la excelencia y el compromiso. Utilizamos las últimas tecnologías y herramientas de desarrollo, para proporcionarle al cliente, productos de calidad."	
 		},
 		"works_section": {
-			"title"     : "NUESTROS TRABAJOS",
+			"title"     : "PROYECTOS",
 			"categories": ["Todos", "Aplicaciones", "Diseño Web"],
 			"label"     : "Presentación de ancho completo"
 		},
@@ -93,11 +93,11 @@
 		"contact_section": {
 			"title": "CONTÁCTANOS",
 			"social_networks": {
-				"twitter" : "",
-				"facebook": "",
-				"linkedin": "",
-				"gplus"   : "",
-				"github"  : ""
+				"twitter" : "Twitter",
+				"facebook": "Facebook",
+				"linkedin": "LinkedIn",
+				"gplus"   : "Google+",
+				"github"  : "GitHub"
 			},
 			"form" : {
 				"labelName" : "Nombre",
@@ -107,7 +107,7 @@
 				"labelText" : "Mensaje",
 				"inputText" : "Escribe algo",
 				"button"	: "Hola",
-				"msgOK"     : "Su mensaje fue enviado correctamente! proximamente estaremos en contacto.",
+				"msgOK"     : "Su mensaje fue enviado correctamente! próximamente estaremos en contacto.",
 				"msgError"  : "Ocurrio un error en el proceso, actualice e intente nuevamente."
 			}	
 		}

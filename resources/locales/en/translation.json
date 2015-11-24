@@ -19,8 +19,8 @@
 		    "title"      : "OUR SERVICES",
 			"information": [
 				"What we do now?",
-				"We are involved in developing informatics solutions to improve local industry development.",
-				"In the same way we provide websites aimed at businesses or individuals."
+				"We are focused on creating technology solutions to promote and advance your business processes.",
+				"Providing high quality web sites, based on the latest industry standards, to meet the highest demands of our customers. Building high-value solutions for your company."
 			],
 			"categories": [
 				{
@@ -34,7 +34,7 @@
 					"label": "Completed"
 				},
 				{
-					"name" : ["OTHERS", "DEVELOPMENTS"],
+					"name" : ["MOBILE", "APPS"],
 					"value": "85",
 					"label": "Completed"
 				}
@@ -42,7 +42,7 @@
 		},
 		"about_section": {
 			"title"      : "ABOUT US",
-			"information": "Somos una empresa de diseño web fundada en el año 2013. Ofrecemos servicios de Desarrollo Web y Aplicaciones Móviles. Estamos comprometidos en ofrecer un servicio marcado por la excelencia y el compromiso. Utilizamos las últimas tecnologías y herramientas de desarrollo, para proporcionarle al cliente, productos de calidad."
+			"information": "We are a web design company founded in 2013. We offer web development and mobile applications. We are committed to offering a service marked by excellence and commitment. We use the latest technologies and development tools, to provide customer quality products."
 		},
 		"works_section": {
 			"title"     : "OUR WORKS",
